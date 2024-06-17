@@ -1,2 +1,4 @@
 This is some content to mess up with later
 New line in here in file4.txt
+[main fe49276] New line in file4.txt
+ 1 file changed, 1 insertion(+)
